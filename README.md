@@ -7,7 +7,7 @@ Dashboard analitik untuk Massachusetts General Hospital.
 ### Menggunakan uv (Recommended)
 
 ```bash
-git clone https://github.com/0xkeonho/dashboard-ets.git
+git clone https://github.com/0xRafie/dashboard-ets.git
 cd dashboard-ets
 uv venv && uv pip install -r requirements.txt
 streamlit run app.py
@@ -21,7 +21,7 @@ uv run streamlit run app.py
 ### Menggunakan pip
 
 ```bash
-git clone https://github.com/0xkeonho/dashboard-ets.git
+git clone https://github.com/0xRafie/dashboard-ets.git
 cd dashboard-ets
 pip install -r requirements.txt
 streamlit run app.py
